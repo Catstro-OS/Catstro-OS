@@ -73,5 +73,5 @@ If you have any feedback, please reach out to us at fake@fake.com, by submit new
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache License](https://github.com/Catstro-OS/Catstro-OS?tab=Apache-2.0-1-ov-file)
 
