@@ -59,15 +59,17 @@ If you have any feedback, please reach out to us at fake@fake.com, by submit new
 
 ## Authors
 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/173286204?v=4" width="50" height="50" style="border-radius: 50%; display: inline-block; vertical-align: middle;">
-  <a href="https://www.github.com/octokatherine" style="display: inline-block; vertical-align: middle; margin-left: 8px;">@kilianbalaguer</a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.github.com/kilianbalaguer"><img src="https://avatars.githubusercontent.com/u/173286204?v=4" width="50" height="50" style="border-radius: 50%;"></a></td>
+    <td><a href="https://www.github.com/kilianbalaguer">@kilianbalaguer</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.github.com/N3v1"><img src="https://avatars.githubusercontent.com/u/129311622?v=4" width="50" height="50" style="border-radius: 50%;"></a></td>
+    <td><a href="https://www.github.com/N3v1">@N3v1</a></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/129311622?v=44" width="50" height="50" style="border-radius: 50%; display: inline-block; vertical-align: middle;">
-  <a href="https://www.github.com/octokatherine" style="display: inline-block; vertical-align: middle; margin-left: 8px;">@N3v1</a>
-</p>
 
 ## License
 
